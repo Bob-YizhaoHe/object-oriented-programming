@@ -1,4 +1,5 @@
 from numbers import Integral
+from fibonacci import fib
 
 
 def typesafe_fib(n):
